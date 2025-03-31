@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ReelGhost&fontSize=40&fontColor=#ff0050&color=black,#ff0050,#8a2be2,white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ReelGhost&fontSize=40&fontColor=#ff0050&color=#ff0050,#C70039,#ff0050,#C70039)
 
 # 👻 Welcome to My GitHub!
 
